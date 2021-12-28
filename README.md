@@ -24,4 +24,4 @@ Check out my [linkedin](https://www.linkedin.com/in/chalothorn-yn/) profile for 
 
 For more information, I'm running a start up call "GYMMY" exercise posture validating application [check our website](www.gymmy.live)
 
-<img src ="https://github-readme-stats.vercel.app/api?username=ChalothornYn&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src ="https://github-readme-stats.vercel.app/api?username=ChalothornYn&&show_icons=false&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
