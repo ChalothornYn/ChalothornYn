@@ -24,4 +24,4 @@ Not just game and mobile developers. But also machine learning and AI, which are
 
 🤸‍♀️ For more information, I'm running a start up call "GYMMY" exercise posture validating application [check our website](www.gymmy.live)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChalothornYn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChalothornYn&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
